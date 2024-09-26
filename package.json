@@ -1,0 +1,22 @@
+{
+  "name": "vp1",
+  "version": "1.0.0",
+  "description": "veebiprogrammeerimise kursuse express.js projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://crocco-tlu@github.com/crocco-tlu/vp1.git"
+  },
+  "keywords": [
+    "veebiprogrammeerimine"
+  ],
+  "author": "Rico Paum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crocco-tlu/vp1/issues"
+  },
+  "homepage": "https://github.com/crocco-tlu/vp1#readme"
+}
