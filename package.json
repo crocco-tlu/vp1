@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/crocco-tlu/vp1/issues"
   },
-  "homepage": "https://github.com/crocco-tlu/vp1#readme"
+  "homepage": "https://github.com/crocco-tlu/vp1#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.11.3",
+    "sharp": "^0.32.6"
+  }
 }
